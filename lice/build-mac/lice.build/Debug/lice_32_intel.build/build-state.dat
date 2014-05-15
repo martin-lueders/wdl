@@ -1,0 +1,1501 @@
+Tlice_32_intel
+v5
+r1
+cCheck dependencies
+cCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/png.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/png.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngerror.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngerror.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngget.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngget.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngmem.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngmem.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngread.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngread.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngpread.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngpread.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngrio.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngrio.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngrtran.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngrtran.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngrutil.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngrutil.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngset.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngset.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngtrans.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngtrans.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngwio.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwio.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngwtran.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwtran.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngwrite.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwrite.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngwutil.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwutil.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/adler32.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/adler32.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/compress.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/compress.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/crc32.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/crc32.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/deflate.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/deflate.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/gzclose.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/gzclose.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/gzlib.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/gzlib.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/gzread.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/gzread.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/gzwrite.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/gzwrite.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/infback.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/infback.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/inffast.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/inffast.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/inflate.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/inflate.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/inftrees.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/inftrees.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/trees.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/trees.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/zutil.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/zutil.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_arc.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_arc.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/uncompr.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/uncompr.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_bmp.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_bmp.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_colorspace.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_colorspace.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_line.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_line.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_image.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_image.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_palette.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_palette.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_png.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_png.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_textnew.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_textnew.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_texgen.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_texgen.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+cLibtool /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/lice32.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk
+c00000000530F12D800000000000000EE
+t1393496792
+s238
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+c000000004C23BF2D00000000000005FF
+t1277411117
+s1535
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/usr/include/ctype.h
+c000000004BBD2CE90000000000002C18
+t1270689001
+s11288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/usr/include/dlfcn.h
+c000000004C74B5950000000000000B1C
+t1282717077
+s2844
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/usr/include/errno.h
+c000000004BBD2CE900000000000003EB
+t1270689001
+s1003
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/usr/include/fcntl.h
+c000000004BBD2CE900000000000003EA
+t1270689001
+s1002
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/usr/include/setjmp.h
+c000000004BBD2CE90000000000000438
+t1270689001
+s1080
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdint.h
+c000000004DFA706800000000000018EF
+t1308258408
+s6383
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004BBD2CE90000000000002DF5
+t1270689001
+s11765
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004BBD2CE90000000000001731
+t1270689001
+s5937
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/usr/include/strings.h
+c000000004BBD2CE90000000000000DA4
+t1270689001
+s3492
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/_types.h
+c000000004C2399490000000000001845
+t1277401417
+s6213
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/param.h
+c000000004C23994700000000000027BE
+t1277401415
+s10174
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/stat.h
+c000000004C2399480000000000004A1D
+t1277401416
+s18973
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/types.h
+c000000004C2399480000000000002905
+t1277401416
+s10501
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/usr/include/time.h
+c000000004BBD2CE9000000000000178E
+t1270689001
+s6030
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk/usr/include/unistd.h
+c000000004BBD2CE9000000000000563E
+t1270689001
+s22078
+
+N/Applications/Xcode.app/Contents/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/float.h
+c000000005022B3750000000000001538
+t1344451445
+s5432
+
+N/Applications/Xcode.app/Contents/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/limits.h
+c000000005022B3750000000000000D03
+t1344451445
+s3331
+i"syslimits.h"
+
+N/Applications/Xcode.app/Contents/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/stdarg.h
+c000000005022B37500000000000010DD
+t1344451445
+s4317
+
+N/Applications/Xcode.app/Contents/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h
+c000000005022B3750000000000003197
+t1344451445
+s12695
+i<machine/ansi.h>
+i<sys/_types.h>
+
+N/Applications/Xcode.app/Contents/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/syslimits.h
+c000000005022B3750000000000000155
+t1344451445
+s341
+
+N/Users/mlu/MLVST/wdl-ol/WDL/heapbuf.h
+c0000000053286A910000000000002B87
+t1395157649
+s11143
+i<windows.h>
+i"wdltypes.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/libpng/png.h
+c0000000053286A91000000000001CBA1
+t1395157649
+s117665
+i"pnglibconf.h"
+i<setjmp.h>
+i<time.h>
+i"pngconf.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/libpng/pngconf.h
+c0000000053286A9100000000000054FA
+t1395157649
+s21754
+i<limits.h>
+i<strings.h>
+i<string.h>
+i<stdio.h>
+i<dos.h>
+
+N/Users/mlu/MLVST/wdl-ol/WDL/libpng/pngdebug.h
+c0000000053286A9100000000000015B8
+t1395157649
+s5560
+i<crtdbg.h>
+i<stdio.h>
+
+N/Users/mlu/MLVST/wdl-ol/WDL/libpng/pnginfo.h
+c0000000053286A91000000000000317F
+t1395157649
+s12671
+
+N/Users/mlu/MLVST/wdl-ol/WDL/libpng/pnglibconf.h
+c0000000053286A910000000000001979
+t1395157649
+s6521
+
+N/Users/mlu/MLVST/wdl-ol/WDL/libpng/pngpriv.h
+c0000000053286A91000000000000FC54
+t1395157649
+s64596
+i<stdlib.h>
+i<stddef.h>
+i"pngusr.h"
+i"png.h"
+i"pnginfo.h"
+i"pngstruct.h"
+i"config.h"
+i<float.h>
+i<fp.h>
+i<math.h>
+i<m68881.h>
+i<mem.h>
+i<alloc.h>
+i<windows.h>
+i"pngdebug.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/libpng/pngstruct.h
+c0000000053286A910000000000003F14
+t1395157649
+s16148
+i"../zlib/zlib.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/png.c
+c0000000053286A91000000000001758D
+t1395157649
+s95629
+i"pngpriv.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngerror.c
+c0000000053286A9100000000000052B4
+t1395157649
+s21172
+i"pngpriv.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngget.c
+c0000000053286A910000000000007C20
+t1395157649
+s31776
+i"pngpriv.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngmem.c
+c0000000053286A9100000000000047A5
+t1395157649
+s18341
+i"pngpriv.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngpread.c
+c0000000053286A91000000000000D0C3
+t1395157649
+s53443
+i"pngpriv.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngread.c
+c0000000053286A910000000000009D0C
+t1395157649
+s40204
+i"pngpriv.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngrio.c
+c0000000053286A910000000000001516
+t1395157649
+s5398
+i"pngpriv.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngrtran.c
+c0000000053286A91000000000002A315
+t1395157649
+s172821
+i"pngpriv.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngrutil.c
+c0000000053286A91000000000001EFB7
+t1395157649
+s126903
+i"pngpriv.h"
+i<stdio.h>
+i<elf.h>
+i<asm/hwcap.h>
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngset.c
+c0000000053286A910000000000009284
+t1395157649
+s37508
+i"pngpriv.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngtrans.c
+c0000000053286A91000000000000507D
+t1395157649
+s20605
+i"pngpriv.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwio.c
+c0000000053286A910000000000001ED1
+t1395157649
+s7889
+i"pngpriv.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwrite.c
+c0000000053286A91000000000000CC1D
+t1395157649
+s52253
+i"pngpriv.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwtran.c
+c0000000053286A91000000000000463E
+t1395157649
+s17982
+i"pngpriv.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwutil.c
+c0000000053286A91000000000001730C
+t1395157649
+s94988
+i"pngpriv.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice.cpp
+c0000000053286A91000000000000EC6D
+t1395157649
+s60525
+i"lice.h"
+i<math.h>
+i<stdio.h>
+i"lice_combine.h"
+i"lice_extended.h"
+i"../swell/swell.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_arc.cpp
+c0000000053286A91000000000000485A
+t1395157649
+s18522
+i"lice.h"
+i"lice_combine.h"
+i<math.h>
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_bmp.cpp
+c0000000053286A910000000000000AF1
+t1395157649
+s2801
+i"lice.h"
+i"../swell/swell.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_colorspace.cpp
+c0000000053286A910000000000000B98
+t1395157649
+s2968
+i"lice.h"
+i<math.h>
+i"lice_combine.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_image.cpp
+c0000000053286A910000000000000D4F
+t1395157649
+s3407
+i"lice.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_line.cpp
+c0000000053286A91000000000000B5D4
+t1395157649
+s46548
+i"lice.h"
+i"lice_combine.h"
+i"lice_extended.h"
+i<math.h>
+i<stdio.h>
+i"lice_bezier.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_palette.cpp
+c0000000053286A910000000000001D84
+t1395157649
+s7556
+i"lice.h"
+i"../ptrlist.h"
+i"../wdltypes.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_png.cpp
+c0000000053286A91000000000000238B
+t1395157649
+s9099
+i"lice.h"
+i<stdio.h>
+i"../libpng/png.h"
+i<Carbon/Carbon.h>
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_texgen.cpp
+c0000000053286A91000000000000239B
+t1395157649
+s9115
+i"lice.h"
+i<math.h>
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_textnew.cpp
+c0000000053286A910000000000006987
+t1395157649
+s27015
+i"lice_text.h"
+i<math.h>
+i"../swell/swell.h"
+i"lice_combine.h"
+i"lice_extended.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/adler32.c
+c0000000053286A910000000000001368
+t1395157649
+s4968
+i"zutil.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/compress.c
+c0000000053286A9100000000000009D8
+t1395157649
+s2520
+i"zlib.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/crc32.c
+c0000000053286A91000000000000364A
+t1395157649
+s13898
+i<stdio.h>
+i"zutil.h"
+i<limits.h>
+i"crc32.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/deflate.c
+c0000000053286A9100000000000116E0
+t1395157649
+s71392
+i"deflate.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/gzclose.c
+c0000000053286A9100000000000002A6
+t1395157649
+s678
+i"gzguts.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/gzlib.c
+c0000000053286A9100000000000039F1
+t1395157649
+s14833
+i"gzguts.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/gzread.c
+c0000000053286A9100000000000047B1
+t1395157649
+s18353
+i"gzguts.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/gzwrite.c
+c0000000053286A910000000000003F8A
+t1395157649
+s16266
+i"gzguts.h"
+i<stdarg.h>
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/infback.c
+c0000000053286A9100000000000058AD
+t1395157649
+s22701
+i"zutil.h"
+i"inftrees.h"
+i"inflate.h"
+i"inffast.h"
+i"inffixed.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/inffast.c
+c0000000053286A91000000000000347F
+t1395157649
+s13439
+i"zutil.h"
+i"inftrees.h"
+i"inflate.h"
+i"inffast.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/inflate.c
+c0000000053286A91000000000000CF83
+t1395157649
+s53123
+i"zutil.h"
+i"inftrees.h"
+i"inflate.h"
+i"inffast.h"
+i"inffixed.h"
+i<stdio.h>
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/inftrees.c
+c0000000053286A9100000000000032E9
+t1395157649
+s13033
+i"zutil.h"
+i"inftrees.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/trees.c
+c0000000053286A91000000000000AC81
+t1395157649
+s44161
+i"deflate.h"
+i<ctype.h>
+i"trees.h"
+i<stdio.h>
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/uncompr.c
+c0000000053286A9100000000000007CA
+t1395157649
+s1994
+i"zlib.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/zutil.c
+c0000000053286A910000000000001B42
+t1395157649
+s6978
+i"zutil.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/lice32.a
+t1395183166
+s1751392
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/adler32.o
+t1395183156
+s5644
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/compress.o
+t1395183156
+s4032
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/crc32.o
+t1395183156
+s18516
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/deflate.o
+t1395183156
+s47028
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/gzclose.o
+t1395183156
+s3176
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/gzlib.o
+t1395183156
+s15304
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/gzread.o
+t1395183156
+s17108
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/gzwrite.o
+t1395183157
+s15160
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/infback.o
+t1395183157
+s19832
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/inffast.o
+t1395183157
+s9464
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/inflate.o
+t1395183157
+s39164
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/inftrees.o
+t1395183157
+s7080
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice.o
+t1395183159
+s266612
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice32.LinkFileList
+c000000005328CE310000000000001143
+t1395183153
+s4419
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_arc.o
+t1395183158
+s140224
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_bmp.o
+t1395183158
+s10400
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_colorspace.o
+t1395183158
+s12068
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_image.o
+t1395183158
+s9184
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_line.o
+t1395183158
+s203964
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_palette.o
+t1395183158
+s15220
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_png.o
+t1395183166
+s17696
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_texgen.o
+t1395183158
+s17628
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_textnew.o
+t1395183158
+s92952
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/png.o
+t1395183156
+s62292
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngerror.o
+t1395183156
+s22584
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngget.o
+t1395183156
+s46076
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngmem.o
+t1395183156
+s16720
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngpread.o
+t1395183156
+s51016
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngread.o
+t1395183156
+s35328
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngrio.o
+t1395183156
+s11812
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngrtran.o
+t1395183156
+s106504
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngrutil.o
+t1395183156
+s95896
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngset.o
+t1395183156
+s47452
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngtrans.o
+t1395183156
+s23136
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngwio.o
+t1395183156
+s13280
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngwrite.o
+t1395183156
+s44460
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngwtran.o
+t1395183156
+s22296
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngwutil.o
+t1395183156
+s77216
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/trees.o
+t1395183157
+s36328
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/uncompr.o
+t1395183157
+s3376
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/zutil.o
+t1395183157
+s3148
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/lice.h
+c0000000053286A9100000000000059EF
+t1395157649
+s23023
+i<windows.h>
+i"../swell/swell-types.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/lice_bezier.h
+c0000000053286A910000000000001E9B
+t1395157649
+s7835
+i"lice.h"
+i<math.h>
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/lice_combine.h
+c0000000053286A91000000000000696B
+t1395157649
+s26987
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/lice_extended.h
+c0000000053286A9100000000000013D6
+t1395157649
+s5078
+i"lice.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/lice/lice_text.h
+c0000000053286A910000000000000F98
+t1395157649
+s3992
+i"lice.h"
+i"../heapbuf.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/ptrlist.h
+c0000000053286A91000000000000195B
+t1395157649
+s6491
+i"heapbuf.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/swell/swell-functions.h
+c0000000053286A91000000000000B320
+t1395157649
+s45856
+
+N/Users/mlu/MLVST/wdl-ol/WDL/swell/swell-types.h
+c0000000053286A910000000000008DDE
+t1395157649
+s36318
+i<stdlib.h>
+i<stdio.h>
+i<string.h>
+i<unistd.h>
+i<sys/types.h>
+i<sys/stat.h>
+i<dlfcn.h>
+i<ctype.h>
+i<stdint.h>
+
+N/Users/mlu/MLVST/wdl-ol/WDL/swell/swell.h
+c0000000053286A91000000000000169E
+t1395157649
+s5790
+i<sys/param.h>
+i"swell-types.h"
+i"swell-functions.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/wdltypes.h
+c0000000053286A9100000000000008EB
+t1395157649
+s2283
+i<windows.h>
+i<stdint.h>
+
+N/Users/mlu/MLVST/wdl-ol/WDL/zlib/crc32.h
+c0000000053286A910000000000007766
+t1395157649
+s30566
+
+N/Users/mlu/MLVST/wdl-ol/WDL/zlib/deflate.h
+c0000000053286A9100000000000031F3
+t1395157649
+s12787
+i"zutil.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/zlib/gzguts.h
+c0000000053286A910000000000001776
+t1395157649
+s6006
+i<stdio.h>
+i"zlib.h"
+i<string.h>
+i<stdlib.h>
+i<limits.h>
+i<fcntl.h>
+i<io.h>
+i<io.h>
+i<windows.h>
+i<errno.h>
+
+N/Users/mlu/MLVST/wdl-ol/WDL/zlib/inffast.h
+c0000000053286A9100000000000001AB
+t1395157649
+s427
+
+N/Users/mlu/MLVST/wdl-ol/WDL/zlib/inffixed.h
+c0000000053286A9100000000000018BC
+t1395157649
+s6332
+
+N/Users/mlu/MLVST/wdl-ol/WDL/zlib/inflate.h
+c0000000053286A9100000000000018FF
+t1395157649
+s6399
+
+N/Users/mlu/MLVST/wdl-ol/WDL/zlib/inftrees.h
+c0000000053286A910000000000000B70
+t1395157649
+s2928
+
+N/Users/mlu/MLVST/wdl-ol/WDL/zlib/trees.h
+c0000000053286A910000000000002118
+t1395157649
+s8472
+
+N/Users/mlu/MLVST/wdl-ol/WDL/zlib/zconf.h
+c0000000053286A910000000000003833
+t1395157649
+s14387
+i<windows.h>
+i<sys/types.h>
+i<unistd.h>
+i<unixio.h>
+
+N/Users/mlu/MLVST/wdl-ol/WDL/zlib/zlib.h
+c0000000053286A91000000000001503E
+t1395157649
+s86078
+i"zconf.h"
+
+N/Users/mlu/MLVST/wdl-ol/WDL/zlib/zutil.h
+c0000000053286A9100000000000019ED
+t1395157649
+s6637
+i"zlib.h"
+i<stddef.h>
+i<string.h>
+i<stdlib.h>
+i<alloc.h>
+i<malloc.h>
+i<malloc.h>
+i<unix.h>
+i<stdio.h>
+
+CBuild AST from /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/png.c
+r0
+
+CBuild AST from /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngerror.c
+r0
+
+CBuild AST from /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngget.c
+r0
+
+CBuild AST from /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngmem.c
+r0
+
+CBuild AST from /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngpread.c
+r0
+
+CBuild AST from /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngread.c
+r0
+
+CBuild AST from /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngrio.c
+r0
+
+CBuild AST from /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngrtran.c
+r0
+
+CBuild AST from /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngrutil.c
+r0
+
+CBuild AST from /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngset.c
+r0
+
+CBuild AST from /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngtrans.c
+r0
+
+CBuild AST from /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwio.c
+r0
+
+CBuild AST from /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwrite.c
+r0
+
+CBuild AST from /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwtran.c
+r0
+
+CBuild AST from /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwutil.c
+r0
+
+CBuild AST from /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice.cpp
+r0
+
+CBuild AST from /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_arc.cpp
+r0
+
+CBuild AST from /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_bmp.cpp
+r0
+
+CBuild AST from /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_colorspace.cpp
+r0
+
+CBuild AST from /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_image.cpp
+r0
+
+CBuild AST from /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_line.cpp
+r0
+
+CBuild AST from /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_palette.cpp
+r0
+
+CBuild AST from /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_png.cpp
+r0
+
+CBuild AST from /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_texgen.cpp
+r0
+
+CBuild AST from /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_textnew.cpp
+r0
+
+CBuild AST from /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/adler32.c
+r0
+
+CBuild AST from /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/compress.c
+r0
+
+CBuild AST from /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/crc32.c
+r0
+
+CBuild AST from /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/deflate.c
+r0
+
+CBuild AST from /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/gzclose.c
+r0
+
+CBuild AST from /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/gzlib.c
+r0
+
+CBuild AST from /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/gzread.c
+r0
+
+CBuild AST from /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/gzwrite.c
+r0
+
+CBuild AST from /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/infback.c
+r0
+
+CBuild AST from /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/inffast.c
+r0
+
+CBuild AST from /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/inflate.c
+r0
+
+CBuild AST from /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/inftrees.c
+r0
+
+CBuild AST from /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/trees.c
+r0
+
+CBuild AST from /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/uncompr.c
+r0
+
+CBuild AST from /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/zutil.c
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies994a778d91fdb841^7e1b8e8d91fdb841^---0#1#0#--18"Check dependencies36"623E6A53-6424-45C7-8A58-6D2042AA29C3-
+
+CCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/adler32.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/adler32.c normal i386 c com.apple.compilers.llvmgcc42
+s416875956.636697
+e416875956.826970
+r1
+xCompileC
+xbuild-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/adler32.o
+x/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/adler32.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/adler32.cad17a3b405d9b841^07b5d3b405d9b841^---0#0#0#-19%DVTDocumentLocation2@66"file://localhost/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/adler32.c0000000000000000^1994"CompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/adler32.o ../zlib/adler32.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/mlu/MLVST/wdl-ol/WDL/lice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DPNG_USE_PNGVCRD -DPNG_LIBPNG_SPECIALBUILD -D__MMX__ -DPNG_HAVE_MMX_COMBINE_ROW -DPNG_HAVE_MMX_READ_INTERLACE -DPNG_HAVE_MMX_READ_FILTER_ROW -D_DEBUG -DPNG_DEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -msse3 -fvisibility=hidden -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-generated-files.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-own-target-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-all-target-headers.hmap -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-project-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources/i386 -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources -F/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug -Wno-implicit -Wno-unused -c /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/adler32.c -o /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/adler32.o36"07775488-6328-4331-9952-ACB5F40ECDBC-
+
+CCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/compress.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/compress.c normal i386 c com.apple.compilers.llvmgcc42
+s416875956.732265
+e416875956.795837
+r1
+xCompileC
+xbuild-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/compress.o
+x/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/compress.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/compress.c8d96bbb405d9b841^a1bccbb405d9b841^---0#0#0#-19%DVTDocumentLocation2@67"file://localhost/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/compress.c0000000000000000^1998"CompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/compress.o ../zlib/compress.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/mlu/MLVST/wdl-ol/WDL/lice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DPNG_USE_PNGVCRD -DPNG_LIBPNG_SPECIALBUILD -D__MMX__ -DPNG_HAVE_MMX_COMBINE_ROW -DPNG_HAVE_MMX_READ_INTERLACE -DPNG_HAVE_MMX_READ_FILTER_ROW -D_DEBUG -DPNG_DEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -msse3 -fvisibility=hidden -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-generated-files.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-own-target-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-all-target-headers.hmap -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-project-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources/i386 -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources -F/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug -Wno-implicit -Wno-unused -c /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/compress.c -o /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/compress.o36"E3006EC4-FE72-4746-B91F-D7F52F68F0DA-
+
+CCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/crc32.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/crc32.c normal i386 c com.apple.compilers.llvmgcc42
+s416875956.732277
+e416875956.875962
+r1
+xCompileC
+xbuild-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/crc32.o
+x/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/crc32.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Compile /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/crc32.cd994bbb405d9b841^0c3fe0b405d9b841^---0#0#0#-19%DVTDocumentLocation2@64"file://localhost/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/crc32.c0000000000000000^1986"CompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/crc32.o ../zlib/crc32.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/mlu/MLVST/wdl-ol/WDL/lice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DPNG_USE_PNGVCRD -DPNG_LIBPNG_SPECIALBUILD -D__MMX__ -DPNG_HAVE_MMX_COMBINE_ROW -DPNG_HAVE_MMX_READ_INTERLACE -DPNG_HAVE_MMX_READ_FILTER_ROW -D_DEBUG -DPNG_DEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -msse3 -fvisibility=hidden -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-generated-files.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-own-target-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-all-target-headers.hmap -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-project-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources/i386 -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources -F/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug -Wno-implicit -Wno-unused -c /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/crc32.c -o /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/crc32.o36"26A36C6A-2AEF-4168-9CDD-F7138560824D-
+
+CCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/deflate.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/deflate.c normal i386 c com.apple.compilers.llvmgcc42
+s416875956.772748
+e416875956.955754
+r1
+xCompileC
+xbuild-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/deflate.o
+x/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/deflate.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/deflate.c64e7c5b405d9b841^6dacf4b405d9b841^---0#0#0#-19%DVTDocumentLocation2@66"file://localhost/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/deflate.c0000000000000000^1994"CompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/deflate.o ../zlib/deflate.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/mlu/MLVST/wdl-ol/WDL/lice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DPNG_USE_PNGVCRD -DPNG_LIBPNG_SPECIALBUILD -D__MMX__ -DPNG_HAVE_MMX_COMBINE_ROW -DPNG_HAVE_MMX_READ_INTERLACE -DPNG_HAVE_MMX_READ_FILTER_ROW -D_DEBUG -DPNG_DEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -msse3 -fvisibility=hidden -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-generated-files.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-own-target-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-all-target-headers.hmap -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-project-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources/i386 -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources -F/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug -Wno-implicit -Wno-unused -c /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/deflate.c -o /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/deflate.o36"E508E39E-DDD9-4168-B611-BE303E5ED049-
+
+CCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/gzclose.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/gzclose.c normal i386 c com.apple.compilers.llvmgcc42
+s416875956.797179
+e416875956.916486
+r1
+xCompileC
+xbuild-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/gzclose.o
+x/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/gzclose.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/gzclose.cfa27ccb405d9b841^200cecb405d9b841^---0#0#0#-19%DVTDocumentLocation2@66"file://localhost/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/gzclose.c0000000000000000^1994"CompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/gzclose.o ../zlib/gzclose.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/mlu/MLVST/wdl-ol/WDL/lice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DPNG_USE_PNGVCRD -DPNG_LIBPNG_SPECIALBUILD -D__MMX__ -DPNG_HAVE_MMX_COMBINE_ROW -DPNG_HAVE_MMX_READ_INTERLACE -DPNG_HAVE_MMX_READ_FILTER_ROW -D_DEBUG -DPNG_DEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -msse3 -fvisibility=hidden -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-generated-files.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-own-target-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-all-target-headers.hmap -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-project-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources/i386 -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources -F/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug -Wno-implicit -Wno-unused -c /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/gzclose.c -o /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/gzclose.o36"AE3DCD64-D5EB-4813-963D-3918448D28EA-
+
+CCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/gzlib.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/gzlib.c normal i386 c com.apple.compilers.llvmgcc42
+s416875956.828400
+e416875956.955035
+r1
+xCompileC
+xbuild-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/gzlib.o
+x/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/gzlib.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Compile /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/gzlib.cbb26d4b405d9b841^e57df4b405d9b841^---0#0#0#-19%DVTDocumentLocation2@64"file://localhost/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/gzlib.c0000000000000000^1986"CompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/gzlib.o ../zlib/gzlib.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/mlu/MLVST/wdl-ol/WDL/lice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DPNG_USE_PNGVCRD -DPNG_LIBPNG_SPECIALBUILD -D__MMX__ -DPNG_HAVE_MMX_COMBINE_ROW -DPNG_HAVE_MMX_READ_INTERLACE -DPNG_HAVE_MMX_READ_FILTER_ROW -D_DEBUG -DPNG_DEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -msse3 -fvisibility=hidden -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-generated-files.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-own-target-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-all-target-headers.hmap -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-project-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources/i386 -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources -F/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug -Wno-implicit -Wno-unused -c /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/gzlib.c -o /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/gzlib.o36"9D3601E9-7E6C-43E7-9064-901F7EA93A20-
+
+CCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/gzread.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/gzread.c normal i386 c com.apple.compilers.llvmgcc42
+s416875956.877292
+e416875956.958453
+r1
+xCompileC
+xbuild-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/gzread.o
+x/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/gzread.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Compile /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/gzread.c60abe0b405d9b841^3467f5b405d9b841^---0#0#0#-19%DVTDocumentLocation2@65"file://localhost/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/gzread.c0000000000000000^1990"CompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/gzread.o ../zlib/gzread.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/mlu/MLVST/wdl-ol/WDL/lice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DPNG_USE_PNGVCRD -DPNG_LIBPNG_SPECIALBUILD -D__MMX__ -DPNG_HAVE_MMX_COMBINE_ROW -DPNG_HAVE_MMX_READ_INTERLACE -DPNG_HAVE_MMX_READ_FILTER_ROW -D_DEBUG -DPNG_DEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -msse3 -fvisibility=hidden -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-generated-files.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-own-target-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-all-target-headers.hmap -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-project-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources/i386 -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources -F/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug -Wno-implicit -Wno-unused -c /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/gzread.c -o /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/gzread.o36"645C888E-FC28-4D96-8B89-3D5381B30156-
+
+CCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/gzwrite.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/gzwrite.c normal i386 c com.apple.compilers.llvmgcc42
+s416875956.923675
+e416875957.063405
+r1
+xCompileC
+xbuild-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/gzwrite.o
+x/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/gzwrite.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/gzwrite.c6f9cecb405d9b841^b43b10b505d9b841^---0#0#0#-19%DVTDocumentLocation2@66"file://localhost/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/gzwrite.c0000000000000000^1994"CompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/gzwrite.o ../zlib/gzwrite.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/mlu/MLVST/wdl-ol/WDL/lice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DPNG_USE_PNGVCRD -DPNG_LIBPNG_SPECIALBUILD -D__MMX__ -DPNG_HAVE_MMX_COMBINE_ROW -DPNG_HAVE_MMX_READ_INTERLACE -DPNG_HAVE_MMX_READ_FILTER_ROW -D_DEBUG -DPNG_DEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -msse3 -fvisibility=hidden -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-generated-files.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-own-target-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-all-target-headers.hmap -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-project-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources/i386 -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources -F/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug -Wno-implicit -Wno-unused -c /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/gzwrite.c -o /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/gzwrite.o36"34F8682F-F4EE-48C3-A790-A1D7F524236C-
+
+CCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/infback.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/infback.c normal i386 c com.apple.compilers.llvmgcc42
+s416875956.956248
+e416875957.163243
+r1
+xCompileC
+xbuild-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/infback.o
+x/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/infback.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/infback.c20ecf4b405d9b841^6edd29b505d9b841^---0#0#0#-19%DVTDocumentLocation2@66"file://localhost/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/infback.c0000000000000000^1994"CompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/infback.o ../zlib/infback.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/mlu/MLVST/wdl-ol/WDL/lice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DPNG_USE_PNGVCRD -DPNG_LIBPNG_SPECIALBUILD -D__MMX__ -DPNG_HAVE_MMX_COMBINE_ROW -DPNG_HAVE_MMX_READ_INTERLACE -DPNG_HAVE_MMX_READ_FILTER_ROW -D_DEBUG -DPNG_DEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -msse3 -fvisibility=hidden -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-generated-files.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-own-target-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-all-target-headers.hmap -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-project-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources/i386 -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources -F/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug -Wno-implicit -Wno-unused -c /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/infback.c -o /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/infback.o36"E89ACD06-2216-4F38-A437-B4AA44BB93E8-
+
+CCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/inffast.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/inffast.c normal i386 c com.apple.compilers.llvmgcc42
+s416875956.956257
+e416875957.090285
+r1
+xCompileC
+xbuild-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/inffast.o
+x/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/inffast.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/inffast.ce3fdf4b405d9b841^fc1c17b505d9b841^---0#0#0#-19%DVTDocumentLocation2@66"file://localhost/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/inffast.c0000000000000000^1994"CompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/inffast.o ../zlib/inffast.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/mlu/MLVST/wdl-ol/WDL/lice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DPNG_USE_PNGVCRD -DPNG_LIBPNG_SPECIALBUILD -D__MMX__ -DPNG_HAVE_MMX_COMBINE_ROW -DPNG_HAVE_MMX_READ_INTERLACE -DPNG_HAVE_MMX_READ_FILTER_ROW -D_DEBUG -DPNG_DEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -msse3 -fvisibility=hidden -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-generated-files.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-own-target-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-all-target-headers.hmap -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-project-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources/i386 -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources -F/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug -Wno-implicit -Wno-unused -c /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/inffast.c -o /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/inffast.o36"01299F2B-6220-4E8F-91A8-F5AF9A09E17B-
+
+CCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/inflate.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/inflate.c normal i386 c com.apple.compilers.llvmgcc42
+s416875956.959616
+e416875957.196905
+r1
+xCompileC
+xbuild-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/inflate.o
+x/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/inflate.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/inflate.c1ec5f5b405d9b841^b26832b505d9b841^---0#0#0#-19%DVTDocumentLocation2@66"file://localhost/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/inflate.c0000000000000000^1994"CompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/inflate.o ../zlib/inflate.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/mlu/MLVST/wdl-ol/WDL/lice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DPNG_USE_PNGVCRD -DPNG_LIBPNG_SPECIALBUILD -D__MMX__ -DPNG_HAVE_MMX_COMBINE_ROW -DPNG_HAVE_MMX_READ_INTERLACE -DPNG_HAVE_MMX_READ_FILTER_ROW -D_DEBUG -DPNG_DEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -msse3 -fvisibility=hidden -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-generated-files.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-own-target-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-all-target-headers.hmap -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-project-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources/i386 -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources -F/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug -Wno-implicit -Wno-unused -c /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/inflate.c -o /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/inflate.o36"A7A0BD0F-6C4F-4E06-97B5-B901FD6BE1F6-
+
+CCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/inftrees.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/inftrees.c normal i386 c com.apple.compilers.llvmgcc42
+s416875957.064694
+e416875957.107538
+r1
+xCompileC
+xbuild-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/inftrees.o
+x/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/inftrees.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/inftrees.ce8a310b505d9b841^01881bb505d9b841^---0#0#0#-19%DVTDocumentLocation2@67"file://localhost/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/inftrees.c0000000000000000^1998"CompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/inftrees.o ../zlib/inftrees.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/mlu/MLVST/wdl-ol/WDL/lice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DPNG_USE_PNGVCRD -DPNG_LIBPNG_SPECIALBUILD -D__MMX__ -DPNG_HAVE_MMX_COMBINE_ROW -DPNG_HAVE_MMX_READ_INTERLACE -DPNG_HAVE_MMX_READ_FILTER_ROW -D_DEBUG -DPNG_DEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -msse3 -fvisibility=hidden -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-generated-files.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-own-target-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-all-target-headers.hmap -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-project-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources/i386 -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources -F/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug -Wno-implicit -Wno-unused -c /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/inftrees.c -o /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/inftrees.o36"64FA9EE9-A177-427C-B204-CAC64B1EEB8E-
+
+CCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s416875958.924249
+e416875959.271483
+r1
+xCompileC
+xbuild-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice.o
+x/Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Compile /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice.cpp79adecb605d9b841^378d45b705d9b841^---0#0#0#-19%DVTDocumentLocation2@65"file://localhost/Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice.cpp0000000000000000^2007"CompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice.o ../lice/lice.cpp normal i386 c++ com.apple.compilers.llvmgcc42    cd /Users/mlu/MLVST/wdl-ol/WDL/lice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DPNG_USE_PNGVCRD -DPNG_LIBPNG_SPECIALBUILD -D__MMX__ -DPNG_HAVE_MMX_COMBINE_ROW -DPNG_HAVE_MMX_READ_INTERLACE -DPNG_HAVE_MMX_READ_FILTER_ROW -D_DEBUG -DPNG_DEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -msse3 -fvisibility=hidden -fvisibility-inlines-hidden -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-generated-files.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-own-target-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-all-target-headers.hmap -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-project-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources/i386 -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources -F/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug -Wno-implicit -Wno-unused -c /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice.cpp -o /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice.o36"18478BD4-3F4C-4829-A84E-6A33474849D3-
+
+CCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_arc.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_arc.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s416875957.164512
+e416875958.662494
+r1
+xCompileC
+xbuild-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_arc.o
+x/Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_arc.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_arc.cpp533c2ab505d9b841^529aa9b605d9b841^---0#0#0#-19%DVTDocumentLocation2@69"file://localhost/Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_arc.cpp0000000000000000^2023"CompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_arc.o ../lice/lice_arc.cpp normal i386 c++ com.apple.compilers.llvmgcc42    cd /Users/mlu/MLVST/wdl-ol/WDL/lice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DPNG_USE_PNGVCRD -DPNG_LIBPNG_SPECIALBUILD -D__MMX__ -DPNG_HAVE_MMX_COMBINE_ROW -DPNG_HAVE_MMX_READ_INTERLACE -DPNG_HAVE_MMX_READ_FILTER_ROW -D_DEBUG -DPNG_DEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -msse3 -fvisibility=hidden -fvisibility-inlines-hidden -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-generated-files.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-own-target-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-all-target-headers.hmap -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-project-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources/i386 -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources -F/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug -Wno-implicit -Wno-unused -c /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_arc.cpp -o /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_arc.o36"5690055D-9817-46CA-94D4-1432F145897C-
+
+CCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_bmp.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_bmp.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s416875957.194781
+e416875958.322243
+r1
+xCompileC
+xbuild-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_bmp.o
+x/Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_bmp.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_bmp.cppc5ff31b505d9b841^c37f52b605d9b841^---0#0#0#-19%DVTDocumentLocation2@69"file://localhost/Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_bmp.cpp0000000000000000^2023"CompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_bmp.o ../lice/lice_bmp.cpp normal i386 c++ com.apple.compilers.llvmgcc42    cd /Users/mlu/MLVST/wdl-ol/WDL/lice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DPNG_USE_PNGVCRD -DPNG_LIBPNG_SPECIALBUILD -D__MMX__ -DPNG_HAVE_MMX_COMBINE_ROW -DPNG_HAVE_MMX_READ_INTERLACE -DPNG_HAVE_MMX_READ_FILTER_ROW -D_DEBUG -DPNG_DEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -msse3 -fvisibility=hidden -fvisibility-inlines-hidden -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-generated-files.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-own-target-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-all-target-headers.hmap -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-project-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources/i386 -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources -F/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug -Wno-implicit -Wno-unused -c /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_bmp.cpp -o /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_bmp.o36"10F73D2C-9773-47C4-B54B-6437455EB18B-
+
+CCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_colorspace.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_colorspace.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s416875957.198107
+e416875958.280444
+r1
+xCompileC
+xbuild-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_colorspace.o
+x/Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_colorspace.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_colorspace.cpp75cb32b505d9b841^60cb47b605d9b841^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_colorspace.cpp0000000000000000^2051"CompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_colorspace.o ../lice/lice_colorspace.cpp normal i386 c++ com.apple.compilers.llvmgcc42    cd /Users/mlu/MLVST/wdl-ol/WDL/lice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DPNG_USE_PNGVCRD -DPNG_LIBPNG_SPECIALBUILD -D__MMX__ -DPNG_HAVE_MMX_COMBINE_ROW -DPNG_HAVE_MMX_READ_INTERLACE -DPNG_HAVE_MMX_READ_FILTER_ROW -D_DEBUG -DPNG_DEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -msse3 -fvisibility=hidden -fvisibility-inlines-hidden -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-generated-files.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-own-target-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-all-target-headers.hmap -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-project-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources/i386 -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources -F/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug -Wno-implicit -Wno-unused -c /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_colorspace.cpp -o /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_colorspace.o36"12A89A59-E1CD-4CE2-BE1C-EF49BF90B37E-
+
+CCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_image.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_image.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s416875957.236778
+e416875958.199370
+r1
+xCompileC
+xbuild-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_image.o
+x/Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_image.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Compile /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_image.cppf9ba3cb505d9b841^810a33b605d9b841^---0#0#0#-19%DVTDocumentLocation2@71"file://localhost/Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_image.cpp0000000000000000^2031"CompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_image.o ../lice/lice_image.cpp normal i386 c++ com.apple.compilers.llvmgcc42    cd /Users/mlu/MLVST/wdl-ol/WDL/lice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DPNG_USE_PNGVCRD -DPNG_LIBPNG_SPECIALBUILD -D__MMX__ -DPNG_HAVE_MMX_COMBINE_ROW -DPNG_HAVE_MMX_READ_INTERLACE -DPNG_HAVE_MMX_READ_FILTER_ROW -D_DEBUG -DPNG_DEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -msse3 -fvisibility=hidden -fvisibility-inlines-hidden -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-generated-files.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-own-target-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-all-target-headers.hmap -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-project-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources/i386 -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources -F/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug -Wno-implicit -Wno-unused -c /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_image.cpp -o /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_image.o36"995416EA-0AF4-4117-A76A-45DDF4DE02C5-
+
+CCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_line.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_line.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s416875958.200715
+e416875958.559113
+r1
+xCompileC
+xbuild-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_line.o
+x/Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_line.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Compile /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_line.cppcd7433b605d9b841^f7218fb605d9b841^---0#0#0#-19%DVTDocumentLocation2@70"file://localhost/Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_line.cpp0000000000000000^2027"CompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_line.o ../lice/lice_line.cpp normal i386 c++ com.apple.compilers.llvmgcc42    cd /Users/mlu/MLVST/wdl-ol/WDL/lice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DPNG_USE_PNGVCRD -DPNG_LIBPNG_SPECIALBUILD -D__MMX__ -DPNG_HAVE_MMX_COMBINE_ROW -DPNG_HAVE_MMX_READ_INTERLACE -DPNG_HAVE_MMX_READ_FILTER_ROW -D_DEBUG -DPNG_DEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -msse3 -fvisibility=hidden -fvisibility-inlines-hidden -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-generated-files.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-own-target-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-all-target-headers.hmap -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-project-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources/i386 -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources -F/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug -Wno-implicit -Wno-unused -c /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_line.cpp -o /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_line.o36"97B38EAE-5885-4880-88A7-1BFE8401DC64-
+
+CCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_palette.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_palette.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s416875958.281883
+e416875958.558541
+r1
+xCompileC
+xbuild-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_palette.o
+x/Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_palette.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_palette.cppe84a48b605d9b841^33fd8eb605d9b841^---0#0#0#-19%DVTDocumentLocation2@73"file://localhost/Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_palette.cpp0000000000000000^2039"CompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_palette.o ../lice/lice_palette.cpp normal i386 c++ com.apple.compilers.llvmgcc42    cd /Users/mlu/MLVST/wdl-ol/WDL/lice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DPNG_USE_PNGVCRD -DPNG_LIBPNG_SPECIALBUILD -D__MMX__ -DPNG_HAVE_MMX_COMBINE_ROW -DPNG_HAVE_MMX_READ_INTERLACE -DPNG_HAVE_MMX_READ_FILTER_ROW -D_DEBUG -DPNG_DEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -msse3 -fvisibility=hidden -fvisibility-inlines-hidden -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-generated-files.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-own-target-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-all-target-headers.hmap -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-project-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources/i386 -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources -F/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug -Wno-implicit -Wno-unused -c /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_palette.cpp -o /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_palette.o36"DEA94A15-5321-45FE-9592-84A2B772B9BE-
+
+CCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_png.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_png.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s416875958.559773
+e416875966.102868
+r1
+xCompileC
+xbuild-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_png.o
+x/Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_png.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_png.cpp2c678fb605d9b841^26561abe05d9b841^---0#0#0#-19%DVTDocumentLocation2@69"file://localhost/Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_png.cpp0000000000000000^2023"CompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_png.o ../lice/lice_png.cpp normal i386 c++ com.apple.compilers.llvmgcc42    cd /Users/mlu/MLVST/wdl-ol/WDL/lice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DPNG_USE_PNGVCRD -DPNG_LIBPNG_SPECIALBUILD -D__MMX__ -DPNG_HAVE_MMX_COMBINE_ROW -DPNG_HAVE_MMX_READ_INTERLACE -DPNG_HAVE_MMX_READ_FILTER_ROW -D_DEBUG -DPNG_DEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -msse3 -fvisibility=hidden -fvisibility-inlines-hidden -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-generated-files.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-own-target-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-all-target-headers.hmap -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-project-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources/i386 -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources -F/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug -Wno-implicit -Wno-unused -c /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_png.cpp -o /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_png.o36"C4EF6176-90AC-4619-A427-AE2CA6753732-
+
+CCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_texgen.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_texgen.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s416875958.663815
+e416875958.731361
+r1
+xCompileC
+xbuild-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_texgen.o
+x/Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_texgen.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_texgen.cppb004aab605d9b841^213bbbb605d9b841^---0#0#0#-19%DVTDocumentLocation2@72"file://localhost/Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_texgen.cpp0000000000000000^2035"CompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_texgen.o ../lice/lice_texgen.cpp normal i386 c++ com.apple.compilers.llvmgcc42    cd /Users/mlu/MLVST/wdl-ol/WDL/lice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DPNG_USE_PNGVCRD -DPNG_LIBPNG_SPECIALBUILD -D__MMX__ -DPNG_HAVE_MMX_COMBINE_ROW -DPNG_HAVE_MMX_READ_INTERLACE -DPNG_HAVE_MMX_READ_FILTER_ROW -D_DEBUG -DPNG_DEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -msse3 -fvisibility=hidden -fvisibility-inlines-hidden -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-generated-files.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-own-target-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-all-target-headers.hmap -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-project-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources/i386 -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources -F/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug -Wno-implicit -Wno-unused -c /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_texgen.cpp -o /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_texgen.o36"9D903EE4-19C6-4FB2-99D7-CB3EA004D507-
+
+CCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_textnew.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_textnew.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+s416875958.732619
+e416875958.922879
+r1
+xCompileC
+xbuild-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_textnew.o
+x/Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_textnew.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_textnew.cpp0ea0bbb605d9b841^dd41ecb605d9b841^---0#0#0#-19%DVTDocumentLocation2@73"file://localhost/Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_textnew.cpp0000000000000000^2039"CompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_textnew.o ../lice/lice_textnew.cpp normal i386 c++ com.apple.compilers.llvmgcc42    cd /Users/mlu/MLVST/wdl-ol/WDL/lice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DPNG_USE_PNGVCRD -DPNG_LIBPNG_SPECIALBUILD -D__MMX__ -DPNG_HAVE_MMX_COMBINE_ROW -DPNG_HAVE_MMX_READ_INTERLACE -DPNG_HAVE_MMX_READ_FILTER_ROW -D_DEBUG -DPNG_DEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -msse3 -fvisibility=hidden -fvisibility-inlines-hidden -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-generated-files.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-own-target-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-all-target-headers.hmap -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-project-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources/i386 -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources -F/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug -Wno-implicit -Wno-unused -c /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_textnew.cpp -o /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice_textnew.o36"B46385E9-47FA-4D8D-8688-140143B838ED-
+
+CCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/png.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/png.c normal i386 c com.apple.compilers.llvmgcc42
+s416875953.747577
+e416875956.286838
+r1
+xCompileC
+xbuild-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/png.o
+x/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/png.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Compile /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/png.c76c6bfb105d9b841^8b6e49b405d9b841^---0#0#0#-19%DVTDocumentLocation2@64"file://localhost/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/png.c0000000000000000^1982"CompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/png.o ../libpng/png.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/mlu/MLVST/wdl-ol/WDL/lice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DPNG_USE_PNGVCRD -DPNG_LIBPNG_SPECIALBUILD -D__MMX__ -DPNG_HAVE_MMX_COMBINE_ROW -DPNG_HAVE_MMX_READ_INTERLACE -DPNG_HAVE_MMX_READ_FILTER_ROW -D_DEBUG -DPNG_DEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -msse3 -fvisibility=hidden -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-generated-files.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-own-target-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-all-target-headers.hmap -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-project-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources/i386 -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources -F/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug -Wno-implicit -Wno-unused -c /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/png.c -o /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/png.o36"6B896211-9528-415B-8171-4AA517DF2F90-
+
+CCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngerror.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngerror.c normal i386 c com.apple.compilers.llvmgcc42
+s416875953.747657
+e416875956.221317
+r1
+xCompileC
+xbuild-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngerror.o
+x/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngerror.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngerror.c66ddbfb105d9b841^5c3e3ab405d9b841^---0#0#0#-19%DVTDocumentLocation2@69"file://localhost/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngerror.c0000000000000000^2002"CompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngerror.o ../libpng/pngerror.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/mlu/MLVST/wdl-ol/WDL/lice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DPNG_USE_PNGVCRD -DPNG_LIBPNG_SPECIALBUILD -D__MMX__ -DPNG_HAVE_MMX_COMBINE_ROW -DPNG_HAVE_MMX_READ_INTERLACE -DPNG_HAVE_MMX_READ_FILTER_ROW -D_DEBUG -DPNG_DEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -msse3 -fvisibility=hidden -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-generated-files.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-own-target-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-all-target-headers.hmap -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-project-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources/i386 -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources -F/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug -Wno-implicit -Wno-unused -c /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngerror.c -o /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngerror.o36"32E73E5E-D18A-4D5D-BC0B-C795088D3284-
+
+CCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngget.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngget.c normal i386 c com.apple.compilers.llvmgcc42
+s416875953.748753
+e416875956.260314
+r1
+xCompileC
+xbuild-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngget.o
+x/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngget.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngget.cd7debfb105d9b841^f0a342b405d9b841^---0#0#0#-19%DVTDocumentLocation2@67"file://localhost/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngget.c0000000000000000^1994"CompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngget.o ../libpng/pngget.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/mlu/MLVST/wdl-ol/WDL/lice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DPNG_USE_PNGVCRD -DPNG_LIBPNG_SPECIALBUILD -D__MMX__ -DPNG_HAVE_MMX_COMBINE_ROW -DPNG_HAVE_MMX_READ_INTERLACE -DPNG_HAVE_MMX_READ_FILTER_ROW -D_DEBUG -DPNG_DEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -msse3 -fvisibility=hidden -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-generated-files.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-own-target-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-all-target-headers.hmap -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-project-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources/i386 -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources -F/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug -Wno-implicit -Wno-unused -c /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngget.c -o /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngget.o36"C039EB3E-03B3-4B1F-849A-AF9E7E72FBD4-
+
+CCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngmem.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngmem.c normal i386 c com.apple.compilers.llvmgcc42
+s416875953.748911
+e416875956.209333
+r1
+xCompileC
+xbuild-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngmem.o
+x/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngmem.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngmem.c711bc1b105d9b841^daa935b405d9b841^---0#0#0#-19%DVTDocumentLocation2@67"file://localhost/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngmem.c0000000000000000^1994"CompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngmem.o ../libpng/pngmem.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/mlu/MLVST/wdl-ol/WDL/lice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DPNG_USE_PNGVCRD -DPNG_LIBPNG_SPECIALBUILD -D__MMX__ -DPNG_HAVE_MMX_COMBINE_ROW -DPNG_HAVE_MMX_READ_INTERLACE -DPNG_HAVE_MMX_READ_FILTER_ROW -D_DEBUG -DPNG_DEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -msse3 -fvisibility=hidden -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-generated-files.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-own-target-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-all-target-headers.hmap -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-project-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources/i386 -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources -F/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug -Wno-implicit -Wno-unused -c /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngmem.c -o /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngmem.o36"F8346564-A8C9-44D8-8C90-BB87912DFB0B-
+
+CCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngpread.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngpread.c normal i386 c com.apple.compilers.llvmgcc42
+s416875956.210699
+e416875956.389202
+r1
+xCompileC
+xbuild-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngpread.o
+x/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngpread.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngpread.c3d453ab405d9b841^8eb163b405d9b841^---0#0#0#-19%DVTDocumentLocation2@69"file://localhost/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngpread.c0000000000000000^2002"CompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngpread.o ../libpng/pngpread.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/mlu/MLVST/wdl-ol/WDL/lice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DPNG_USE_PNGVCRD -DPNG_LIBPNG_SPECIALBUILD -D__MMX__ -DPNG_HAVE_MMX_COMBINE_ROW -DPNG_HAVE_MMX_READ_INTERLACE -DPNG_HAVE_MMX_READ_FILTER_ROW -D_DEBUG -DPNG_DEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -msse3 -fvisibility=hidden -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-generated-files.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-own-target-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-all-target-headers.hmap -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-project-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources/i386 -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources -F/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug -Wno-implicit -Wno-unused -c /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngpread.c -o /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngpread.o36"3C43AF30-1315-49BE-8FA3-DFE4174BFCB1-
+
+CCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngread.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngread.c normal i386 c com.apple.compilers.llvmgcc42
+s416875956.244377
+e416875956.382654
+r1
+xCompileC
+xbuild-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngread.o
+x/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngread.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Compile /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngread.c5dc13eb405d9b841^8cf561b405d9b841^---0#0#0#-19%DVTDocumentLocation2@68"file://localhost/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngread.c0000000000000000^1998"CompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngread.o ../libpng/pngread.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/mlu/MLVST/wdl-ol/WDL/lice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DPNG_USE_PNGVCRD -DPNG_LIBPNG_SPECIALBUILD -D__MMX__ -DPNG_HAVE_MMX_COMBINE_ROW -DPNG_HAVE_MMX_READ_INTERLACE -DPNG_HAVE_MMX_READ_FILTER_ROW -D_DEBUG -DPNG_DEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -msse3 -fvisibility=hidden -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-generated-files.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-own-target-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-all-target-headers.hmap -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-project-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources/i386 -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources -F/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug -Wno-implicit -Wno-unused -c /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngread.c -o /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngread.o36"4EEAE734-A4AB-4D8C-A911-F5DEBFA2ABB9-
+
+CCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngrio.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngrio.c normal i386 c com.apple.compilers.llvmgcc42
+s416875956.261625
+e416875956.337405
+r1
+xCompileC
+xbuild-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngrio.o
+x/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngrio.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngrio.c971c43b405d9b841^706056b405d9b841^---0#0#0#-19%DVTDocumentLocation2@67"file://localhost/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngrio.c0000000000000000^1994"CompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngrio.o ../libpng/pngrio.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/mlu/MLVST/wdl-ol/WDL/lice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DPNG_USE_PNGVCRD -DPNG_LIBPNG_SPECIALBUILD -D__MMX__ -DPNG_HAVE_MMX_COMBINE_ROW -DPNG_HAVE_MMX_READ_INTERLACE -DPNG_HAVE_MMX_READ_FILTER_ROW -D_DEBUG -DPNG_DEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -msse3 -fvisibility=hidden -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-generated-files.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-own-target-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-all-target-headers.hmap -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-project-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources/i386 -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources -F/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug -Wno-implicit -Wno-unused -c /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngrio.c -o /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngrio.o36"D14FD245-2CCE-4E75-A17A-9978583660E4-
+
+CCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngrtran.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngrtran.c normal i386 c com.apple.compilers.llvmgcc42
+s416875956.288324
+e416875956.582732
+r1
+xCompileC
+xbuild-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngrtran.o
+x/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngrtran.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngrtran.c80f049b405d9b841^8a3c95b405d9b841^---0#0#0#-19%DVTDocumentLocation2@69"file://localhost/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngrtran.c0000000000000000^2002"CompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngrtran.o ../libpng/pngrtran.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/mlu/MLVST/wdl-ol/WDL/lice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DPNG_USE_PNGVCRD -DPNG_LIBPNG_SPECIALBUILD -D__MMX__ -DPNG_HAVE_MMX_COMBINE_ROW -DPNG_HAVE_MMX_READ_INTERLACE -DPNG_HAVE_MMX_READ_FILTER_ROW -D_DEBUG -DPNG_DEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -msse3 -fvisibility=hidden -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-generated-files.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-own-target-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-all-target-headers.hmap -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-project-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources/i386 -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources -F/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug -Wno-implicit -Wno-unused -c /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngrtran.c -o /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngrtran.o36"C2B6AA3A-3DA4-415F-B7F3-B42D655B6AD1-
+
+CCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngrutil.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngrutil.c normal i386 c com.apple.compilers.llvmgcc42
+s416875956.338724
+e416875956.635552
+r1
+xCompileC
+xbuild-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngrutil.o
+x/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngrutil.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngrutil.c45d656b405d9b841^ffb3a2b405d9b841^---0#0#0#-19%DVTDocumentLocation2@69"file://localhost/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngrutil.c0000000000000000^2002"CompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngrutil.o ../libpng/pngrutil.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/mlu/MLVST/wdl-ol/WDL/lice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DPNG_USE_PNGVCRD -DPNG_LIBPNG_SPECIALBUILD -D__MMX__ -DPNG_HAVE_MMX_COMBINE_ROW -DPNG_HAVE_MMX_READ_INTERLACE -DPNG_HAVE_MMX_READ_FILTER_ROW -D_DEBUG -DPNG_DEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -msse3 -fvisibility=hidden -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-generated-files.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-own-target-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-all-target-headers.hmap -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-project-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources/i386 -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources -F/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug -Wno-implicit -Wno-unused -c /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngrutil.c -o /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngrutil.o36"525161EE-D395-4EEA-8618-68690EB31516-
+
+CCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngset.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngset.c normal i386 c com.apple.compilers.llvmgcc42
+s416875956.384196
+e416875956.568458
+r1
+xCompileC
+xbuild-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngset.o
+x/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngset.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngset.c738262b405d9b841^db8691b405d9b841^---0#0#0#-19%DVTDocumentLocation2@67"file://localhost/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngset.c0000000000000000^1994"CompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngset.o ../libpng/pngset.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/mlu/MLVST/wdl-ol/WDL/lice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DPNG_USE_PNGVCRD -DPNG_LIBPNG_SPECIALBUILD -D__MMX__ -DPNG_HAVE_MMX_COMBINE_ROW -DPNG_HAVE_MMX_READ_INTERLACE -DPNG_HAVE_MMX_READ_FILTER_ROW -D_DEBUG -DPNG_DEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -msse3 -fvisibility=hidden -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-generated-files.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-own-target-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-all-target-headers.hmap -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-project-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources/i386 -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources -F/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug -Wno-implicit -Wno-unused -c /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngset.c -o /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngset.o36"32562449-2A18-4252-A2B6-2FB32CB6EFEB-
+
+CCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngtrans.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngtrans.c normal i386 c com.apple.compilers.llvmgcc42
+s416875956.390480
+e416875956.495970
+r1
+xCompileC
+xbuild-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngtrans.o
+x/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngtrans.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngtrans.cec1764b405d9b841^d2fb7eb405d9b841^---0#0#0#-19%DVTDocumentLocation2@69"file://localhost/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngtrans.c0000000000000000^2002"CompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngtrans.o ../libpng/pngtrans.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/mlu/MLVST/wdl-ol/WDL/lice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DPNG_USE_PNGVCRD -DPNG_LIBPNG_SPECIALBUILD -D__MMX__ -DPNG_HAVE_MMX_COMBINE_ROW -DPNG_HAVE_MMX_READ_INTERLACE -DPNG_HAVE_MMX_READ_FILTER_ROW -D_DEBUG -DPNG_DEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -msse3 -fvisibility=hidden -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-generated-files.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-own-target-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-all-target-headers.hmap -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-project-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources/i386 -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources -F/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug -Wno-implicit -Wno-unused -c /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngtrans.c -o /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngtrans.o36"87972811-D1AE-4D56-948B-9BE868EDED42-
+
+CCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngwio.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwio.c normal i386 c com.apple.compilers.llvmgcc42
+s416875956.497706
+e416875956.635177
+r1
+xCompileC
+xbuild-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngwio.o
+x/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwio.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Compile /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwio.cc6897fb405d9b841^7c9ba2b405d9b841^---0#0#0#-19%DVTDocumentLocation2@67"file://localhost/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwio.c0000000000000000^1994"CompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngwio.o ../libpng/pngwio.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/mlu/MLVST/wdl-ol/WDL/lice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DPNG_USE_PNGVCRD -DPNG_LIBPNG_SPECIALBUILD -D__MMX__ -DPNG_HAVE_MMX_COMBINE_ROW -DPNG_HAVE_MMX_READ_INTERLACE -DPNG_HAVE_MMX_READ_FILTER_ROW -D_DEBUG -DPNG_DEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -msse3 -fvisibility=hidden -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-generated-files.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-own-target-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-all-target-headers.hmap -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-project-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources/i386 -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources -F/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug -Wno-implicit -Wno-unused -c /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwio.c -o /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngwio.o36"283F08D4-83E9-46C4-A6B4-5FA92F742A1E-
+
+CCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngwrite.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwrite.c normal i386 c com.apple.compilers.llvmgcc42
+s416875956.569777
+e416875956.730960
+r1
+xCompileC
+xbuild-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngwrite.o
+x/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwrite.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwrite.c05fd91b405d9b841^cb2bbbb405d9b841^---0#0#0#-19%DVTDocumentLocation2@69"file://localhost/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwrite.c0000000000000000^2002"CompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngwrite.o ../libpng/pngwrite.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/mlu/MLVST/wdl-ol/WDL/lice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DPNG_USE_PNGVCRD -DPNG_LIBPNG_SPECIALBUILD -D__MMX__ -DPNG_HAVE_MMX_COMBINE_ROW -DPNG_HAVE_MMX_READ_INTERLACE -DPNG_HAVE_MMX_READ_FILTER_ROW -D_DEBUG -DPNG_DEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -msse3 -fvisibility=hidden -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-generated-files.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-own-target-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-all-target-headers.hmap -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-project-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources/i386 -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources -F/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug -Wno-implicit -Wno-unused -c /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwrite.c -o /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngwrite.o36"37DB88B5-BC5F-4057-AF17-F5242D69CF36-
+
+CCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngwtran.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwtran.c normal i386 c com.apple.compilers.llvmgcc42
+s416875956.585099
+e416875956.730975
+r1
+xCompileC
+xbuild-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngwtran.o
+x/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwtran.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwtran.c39ed95b405d9b841^772fbbb405d9b841^---0#0#0#-19%DVTDocumentLocation2@69"file://localhost/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwtran.c0000000000000000^2002"CompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngwtran.o ../libpng/pngwtran.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/mlu/MLVST/wdl-ol/WDL/lice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DPNG_USE_PNGVCRD -DPNG_LIBPNG_SPECIALBUILD -D__MMX__ -DPNG_HAVE_MMX_COMBINE_ROW -DPNG_HAVE_MMX_READ_INTERLACE -DPNG_HAVE_MMX_READ_FILTER_ROW -D_DEBUG -DPNG_DEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -msse3 -fvisibility=hidden -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-generated-files.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-own-target-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-all-target-headers.hmap -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-project-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources/i386 -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources -F/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug -Wno-implicit -Wno-unused -c /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwtran.c -o /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngwtran.o36"C677F8D7-156D-4840-8DEF-83AC4B7C0C8A-
+
+CCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngwutil.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwutil.c normal i386 c com.apple.compilers.llvmgcc42
+s416875956.636470
+e416875956.771434
+r1
+xCompileC
+xbuild-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngwutil.o
+x/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwutil.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwutil.c7c0fa3b405d9b841^e17dc5b405d9b841^---0#0#0#-19%DVTDocumentLocation2@69"file://localhost/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwutil.c0000000000000000^2002"CompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngwutil.o ../libpng/pngwutil.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/mlu/MLVST/wdl-ol/WDL/lice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DPNG_USE_PNGVCRD -DPNG_LIBPNG_SPECIALBUILD -D__MMX__ -DPNG_HAVE_MMX_COMBINE_ROW -DPNG_HAVE_MMX_READ_INTERLACE -DPNG_HAVE_MMX_READ_FILTER_ROW -D_DEBUG -DPNG_DEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -msse3 -fvisibility=hidden -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-generated-files.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-own-target-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-all-target-headers.hmap -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-project-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources/i386 -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources -F/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug -Wno-implicit -Wno-unused -c /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwutil.c -o /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/pngwutil.o36"ED9B49B2-8740-4F09-AF1F-93D4C66E31EC-
+
+CCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/trees.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/trees.c normal i386 c com.apple.compilers.llvmgcc42
+s416875957.091601
+e416875957.235461
+r1
+xCompileC
+xbuild-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/trees.o
+x/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/trees.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Compile /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/trees.ca89017b505d9b841^2c473cb505d9b841^---0#0#0#-19%DVTDocumentLocation2@64"file://localhost/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/trees.c0000000000000000^1986"CompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/trees.o ../zlib/trees.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/mlu/MLVST/wdl-ol/WDL/lice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DPNG_USE_PNGVCRD -DPNG_LIBPNG_SPECIALBUILD -D__MMX__ -DPNG_HAVE_MMX_COMBINE_ROW -DPNG_HAVE_MMX_READ_INTERLACE -DPNG_HAVE_MMX_READ_FILTER_ROW -D_DEBUG -DPNG_DEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -msse3 -fvisibility=hidden -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-generated-files.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-own-target-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-all-target-headers.hmap -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-project-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources/i386 -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources -F/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug -Wno-implicit -Wno-unused -c /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/trees.c -o /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/trees.o36"87EDDAD4-EC66-4895-B75E-0E8B5DFAC150-
+
+CCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/uncompr.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/uncompr.c normal i386 c com.apple.compilers.llvmgcc42
+s416875957.108873
+e416875957.134709
+r1
+xCompileC
+xbuild-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/uncompr.o
+x/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/uncompr.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/uncompr.cefff1bb505d9b841^6c7c22b505d9b841^---0#0#0#-19%DVTDocumentLocation2@66"file://localhost/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/uncompr.c0000000000000000^1994"CompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/uncompr.o ../zlib/uncompr.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/mlu/MLVST/wdl-ol/WDL/lice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DPNG_USE_PNGVCRD -DPNG_LIBPNG_SPECIALBUILD -D__MMX__ -DPNG_HAVE_MMX_COMBINE_ROW -DPNG_HAVE_MMX_READ_INTERLACE -DPNG_HAVE_MMX_READ_FILTER_ROW -D_DEBUG -DPNG_DEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -msse3 -fvisibility=hidden -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-generated-files.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-own-target-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-all-target-headers.hmap -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-project-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources/i386 -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources -F/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug -Wno-implicit -Wno-unused -c /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/uncompr.c -o /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/uncompr.o36"A95A8520-CAD1-4455-B10E-71445169DBF1-
+
+CCompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/zutil.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/zutil.c normal i386 c com.apple.compilers.llvmgcc42
+s416875957.136009
+e416875957.193420
+r1
+xCompileC
+xbuild-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/zutil.o
+x/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/zutil.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Compile /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/zutil.ca6f222b505d9b841^908431b505d9b841^---0#0#0#-19%DVTDocumentLocation2@64"file://localhost/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/zutil.c0000000000000000^1986"CompileC build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/zutil.o ../zlib/zutil.c normal i386 c com.apple.compilers.llvmgcc42    cd /Users/mlu/MLVST/wdl-ol/WDL/lice    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DPNG_USE_PNGVCRD -DPNG_LIBPNG_SPECIALBUILD -D__MMX__ -DPNG_HAVE_MMX_COMBINE_ROW -DPNG_HAVE_MMX_READ_INTERLACE -DPNG_HAVE_MMX_READ_FILTER_ROW -D_DEBUG -DPNG_DEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -msse3 -fvisibility=hidden -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-generated-files.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-own-target-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-all-target-headers.hmap -iquote /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/lice32-project-headers.hmap -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources/i386 -I/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/DerivedSources -F/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug -Wno-implicit -Wno-unused -c /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/zutil.c -o /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/zutil.o36"1A2BC16E-8CCA-4A23-8FA0-F7323FDFD7F7-
+
+CLibtool /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/lice32.a normal i386
+s416875966.110562
+e416875966.523111
+r1
+xLibtool
+x/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/lice32.a
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Libtool build-mac/Debug/lice32.a normal i386965d1cbe05d9b841^96eb85be05d9b841^---0#0#0#--602"Libtool build-mac/Debug/lice32.a normal i386    cd /Users/mlu/MLVST/wdl-ol/WDL/lice    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.6.sdk -L/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug -filelist /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32_intel.build/Objects-normal/i386/lice32.LinkFileList -o /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/lice32.a36"5CE2E6FC-1474-4E05-B6E6-85AE5976E342-
+

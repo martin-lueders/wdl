@@ -84,7 +84,7 @@ IPlugVST::IPlugVST(IPlugInstanceInfo instanceInfo,
   // Default everything to connected, then disconnect pins if the host says to.
   SetInputChannelConnections(0, nInputs, true);
   SetOutputChannelConnections(0, nOutputs, true);
-
+ 
   SetBlockSize(DEFAULT_BLOCK_SIZE);
 }
 

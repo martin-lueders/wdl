@@ -12,7 +12,7 @@
 // transforming a bitmap, or cycling through a set of bitmaps.
 // Other controls are readouts only.
 
-#define DEFAULT_TEXT_ENTRY_LEN 7
+#define DEFAULT_TEXT_ENTRY_LEN 32
 
 class IControl
 {

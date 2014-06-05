@@ -233,8 +233,8 @@ protected:
   void PruneUninitializedPresets();
 
   // Unserialize / SerializePresets - Only used by VST2
-  bool SerializePresets(ByteChunk* pChunk);
-  int UnserializePresets(ByteChunk* pChunk, int startPos); // Returns the new chunk position (endPos).
+  virtual bool SerializePresets(ByteChunk* pChunk);
+  virtual int UnserializePresets(ByteChunk* pChunk, int startPos); // Returns the new chunk position (endPos).
 
   // Set connection state for n channels.
   // If a channel is connected, we expect a call to attach the buffers before each process call.

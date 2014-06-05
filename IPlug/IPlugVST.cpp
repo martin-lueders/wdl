@@ -327,6 +327,7 @@ VstIntPtr VSTCALLBACK IPlugVST::VSTDispatcher(AEffect *pEffect, VstInt32 opCode,
 {
   // VSTDispatcher is an IPlugVST class member, we can access anything in IPlugVST from here.
   IPlugVST* _this = (IPlugVST*) pEffect->object;
+
   if (!_this)
   {
     return 0;

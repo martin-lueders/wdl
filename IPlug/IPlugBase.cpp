@@ -892,6 +892,10 @@ int IPlugBase::UnserializePresets(ByteChunk* pChunk, int startPos)
 
 bool IPlugBase::SerializeParams(ByteChunk* pChunk)
 {
+    
+    // Note: SerializeParams does NOT save the preset name !!
+    
+    
   TRACE;
 
   WDL_MutexLock lock(&mMutex);

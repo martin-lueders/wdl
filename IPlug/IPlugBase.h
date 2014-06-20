@@ -11,6 +11,8 @@
 #include "Log.h"
 #include "NChanDelay.h"
 
+
+
 // Uncomment to enable IPlug::OnIdle() and IGraphics::OnGUIIdle().
 // #define USE_IDLE_CALLS
 
@@ -255,7 +257,7 @@ protected:
   
 public:
   void ModifyCurrentPreset(const char* name = 0);     // Sets the currently active preset to whatever current params are.
-  int NPresets() { return mPresets.GetSize(); }
+  int NPresets() { return  numPresets; } //   mPresets.GetSize(); }
   int GetCurrentPresetIdx() { return mCurrentPresetIdx; }
   bool RestorePreset(int idx);
   bool RestorePreset(const char* name);
@@ -334,6 +336,8 @@ private:
   WDL_PtrList<OutChannel> mOutChannels;
   WDL_PtrList<WDL_String> mInputBusLabels;
   WDL_PtrList<WDL_String> mOutputBusLabels;
+	
+	int numPresets;
 };
 
 #endif

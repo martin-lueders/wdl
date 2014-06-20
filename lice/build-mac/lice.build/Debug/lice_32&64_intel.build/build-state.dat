@@ -2,24 +2,24 @@ Tlice_32&64_intel
 v5
 r1
 cCheck dependencies
-cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/pngmem.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngmem.c normal x86_64 c com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/pngerror.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngerror.c normal x86_64 c com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/png.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/png.c normal x86_64 c com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/pngget.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngget.c normal x86_64 c com.apple.compilers.llvmgcc42
-cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/pngpread.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngpread.c normal x86_64 c com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/pngmem.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngmem.c normal x86_64 c com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/pngread.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngread.c normal x86_64 c com.apple.compilers.llvmgcc42
-cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/pngrtran.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngrtran.c normal x86_64 c com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/pngrio.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngrio.c normal x86_64 c com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/pngrtran.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngrtran.c normal x86_64 c com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/pngpread.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngpread.c normal x86_64 c com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/pngrutil.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngrutil.c normal x86_64 c com.apple.compilers.llvmgcc42
-cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/pngset.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngset.c normal x86_64 c com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/pngtrans.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngtrans.c normal x86_64 c com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/pngset.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngset.c normal x86_64 c com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/pngwio.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwio.c normal x86_64 c com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/pngwrite.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwrite.c normal x86_64 c com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/pngwtran.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwtran.c normal x86_64 c com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/pngwutil.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwutil.c normal x86_64 c com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/adler32.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/adler32.c normal x86_64 c com.apple.compilers.llvmgcc42
-cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/compress.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/compress.c normal x86_64 c com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/crc32.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/crc32.c normal x86_64 c com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/compress.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/compress.c normal x86_64 c com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/deflate.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/deflate.c normal x86_64 c com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/gzclose.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/gzclose.c normal x86_64 c com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/gzlib.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/gzlib.c normal x86_64 c com.apple.compilers.llvmgcc42
@@ -31,21 +31,21 @@ cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_6
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/inftrees.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/inftrees.c normal x86_64 c com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/trees.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/trees.c normal x86_64 c com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/uncompr.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/uncompr.c normal x86_64 c com.apple.compilers.llvmgcc42
-cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/lice_bmp.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_bmp.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
-cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/lice_arc.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_arc.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/zutil.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/zutil.c normal x86_64 c com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/lice_arc.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_arc.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/lice_bmp.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_bmp.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/lice_colorspace.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_colorspace.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/lice_image.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_image.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/lice_line.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_line.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/lice_palette.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_palette.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
-cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/lice_texgen.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_texgen.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/lice_png.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_png.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/lice_texgen.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_texgen.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/lice.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/lice_textnew.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_textnew.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/png.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/png.c normal i386 c com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/pngerror.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngerror.c normal i386 c com.apple.compilers.llvmgcc42
-cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/pngmem.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngmem.c normal i386 c com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/pngget.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngget.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/pngmem.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngmem.c normal i386 c com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/pngpread.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngpread.c normal i386 c com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/pngread.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngread.c normal i386 c com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/pngrio.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngrio.c normal i386 c com.apple.compilers.llvmgcc42
@@ -54,35 +54,35 @@ cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/pngrutil.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngrutil.c normal i386 c com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/pngtrans.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngtrans.c normal i386 c com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/pngwio.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwio.c normal i386 c com.apple.compilers.llvmgcc42
-cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/pngwrite.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwrite.c normal i386 c com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/pngwtran.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwtran.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/pngwrite.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwrite.c normal i386 c com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/pngwutil.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwutil.c normal i386 c com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/adler32.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/adler32.c normal i386 c com.apple.compilers.llvmgcc42
 cLibtool /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/lice.a normal x86_64
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/compress.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/compress.c normal i386 c com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/crc32.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/crc32.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/deflate.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/deflate.c normal i386 c com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/gzclose.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/gzclose.c normal i386 c com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/gzlib.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/gzlib.c normal i386 c com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/gzread.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/gzread.c normal i386 c com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/gzwrite.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/gzwrite.c normal i386 c com.apple.compilers.llvmgcc42
-cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/infback.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/infback.c normal i386 c com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/inffast.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/inffast.c normal i386 c com.apple.compilers.llvmgcc42
-cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/inftrees.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/inftrees.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/infback.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/infback.c normal i386 c com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/inflate.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/inflate.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/inftrees.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/inftrees.c normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/uncompr.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/uncompr.c normal i386 c com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/trees.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/trees.c normal i386 c com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/zutil.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/zutil.c normal i386 c com.apple.compilers.llvmgcc42
-cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/uncompr.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/uncompr.c normal i386 c com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/lice_arc.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_arc.cpp normal i386 c++ com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/lice_bmp.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_bmp.cpp normal i386 c++ com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/lice_colorspace.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_colorspace.cpp normal i386 c++ com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/lice_image.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_image.cpp normal i386 c++ com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/lice_line.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_line.cpp normal i386 c++ com.apple.compilers.llvmgcc42
-cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/lice_palette.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_palette.cpp normal i386 c++ com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/lice_png.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_png.cpp normal i386 c++ com.apple.compilers.llvmgcc42
+cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/lice_palette.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_palette.cpp normal i386 c++ com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/lice_texgen.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_texgen.cpp normal i386 c++ com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/lice_textnew.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_textnew.cpp normal i386 c++ com.apple.compilers.llvmgcc42
 cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/lice.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice.cpp normal i386 c++ com.apple.compilers.llvmgcc42
-cCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/deflate.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/deflate.c normal i386 c com.apple.compilers.llvmgcc42
 cLibtool /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/lice.a normal i386
 cCreateUniversalBinary /Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/lice.a normal "x86_64 i386"
 
@@ -210,15 +210,15 @@ t1344451445
 s341
 
 N/Users/mlu/MLVST/wdl-ol/WDL/heapbuf.h
-c0000000053286A910000000000002B87
-t1395157649
+c00000000539166680000000000002B87
+t1402037864
 s11143
 i<windows.h>
 i"wdltypes.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/libpng/png.h
-c0000000053286A91000000000001CBA1
-t1395157649
+c0000000053916668000000000001CBA1
+t1402037864
 s117665
 i"pnglibconf.h"
 i<setjmp.h>
@@ -226,8 +226,8 @@ i<time.h>
 i"pngconf.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/libpng/pngconf.h
-c0000000053286A9100000000000054FA
-t1395157649
+c000000005391666800000000000054FA
+t1402037864
 s21754
 i<limits.h>
 i<strings.h>
@@ -236,25 +236,25 @@ i<stdio.h>
 i<dos.h>
 
 N/Users/mlu/MLVST/wdl-ol/WDL/libpng/pngdebug.h
-c0000000053286A9100000000000015B8
-t1395157649
+c000000005391666800000000000015B8
+t1402037864
 s5560
 i<crtdbg.h>
 i<stdio.h>
 
 N/Users/mlu/MLVST/wdl-ol/WDL/libpng/pnginfo.h
-c0000000053286A91000000000000317F
-t1395157649
+c0000000053916668000000000000317F
+t1402037864
 s12671
 
 N/Users/mlu/MLVST/wdl-ol/WDL/libpng/pnglibconf.h
-c0000000053286A910000000000001979
-t1395157649
+c00000000539166680000000000001979
+t1402037864
 s6521
 
 N/Users/mlu/MLVST/wdl-ol/WDL/libpng/pngpriv.h
-c0000000053286A91000000000000FC54
-t1395157649
+c0000000053916668000000000000FC54
+t1402037864
 s64596
 i<stdlib.h>
 i<stddef.h>
@@ -273,62 +273,62 @@ i<windows.h>
 i"pngdebug.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/libpng/pngstruct.h
-c0000000053286A910000000000003F14
-t1395157649
+c00000000539166680000000000003F14
+t1402037864
 s16148
 i"../zlib/zlib.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/png.c
-c0000000053286A91000000000001758D
-t1395157649
+c0000000053916668000000000001758D
+t1402037864
 s95629
 i"pngpriv.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngerror.c
-c0000000053286A9100000000000052B4
-t1395157649
+c000000005391666800000000000052B4
+t1402037864
 s21172
 i"pngpriv.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngget.c
-c0000000053286A910000000000007C20
-t1395157649
+c00000000539166680000000000007C20
+t1402037864
 s31776
 i"pngpriv.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngmem.c
-c0000000053286A9100000000000047A5
-t1395157649
+c000000005391666800000000000047A5
+t1402037864
 s18341
 i"pngpriv.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngpread.c
-c0000000053286A91000000000000D0C3
-t1395157649
+c0000000053916668000000000000D0C3
+t1402037864
 s53443
 i"pngpriv.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngread.c
-c0000000053286A910000000000009D0C
-t1395157649
+c00000000539166680000000000009D0C
+t1402037864
 s40204
 i"pngpriv.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngrio.c
-c0000000053286A910000000000001516
-t1395157649
+c00000000539166680000000000001516
+t1402037864
 s5398
 i"pngpriv.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngrtran.c
-c0000000053286A91000000000002A315
-t1395157649
+c0000000053916668000000000002A315
+t1402037864
 s172821
 i"pngpriv.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngrutil.c
-c0000000053286A91000000000001EFB7
-t1395157649
+c0000000053916668000000000001EFB7
+t1402037864
 s126903
 i"pngpriv.h"
 i<stdio.h>
@@ -336,44 +336,44 @@ i<elf.h>
 i<asm/hwcap.h>
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngset.c
-c0000000053286A910000000000009284
-t1395157649
+c00000000539166680000000000009284
+t1402037864
 s37508
 i"pngpriv.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngtrans.c
-c0000000053286A91000000000000507D
-t1395157649
+c0000000053916668000000000000507D
+t1402037864
 s20605
 i"pngpriv.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwio.c
-c0000000053286A910000000000001ED1
-t1395157649
+c00000000539166680000000000001ED1
+t1402037864
 s7889
 i"pngpriv.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwrite.c
-c0000000053286A91000000000000CC1D
-t1395157649
+c0000000053916668000000000000CC1D
+t1402037864
 s52253
 i"pngpriv.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwtran.c
-c0000000053286A91000000000000463E
-t1395157649
+c0000000053916668000000000000463E
+t1402037864
 s17982
 i"pngpriv.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/../libpng/pngwutil.c
-c0000000053286A91000000000001730C
-t1395157649
+c0000000053916668000000000001730C
+t1402037864
 s94988
 i"pngpriv.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice.cpp
-c0000000053286A91000000000000EC6D
-t1395157649
+c0000000053916668000000000000EC6D
+t1402037864
 s60525
 i"lice.h"
 i<math.h>
@@ -383,37 +383,37 @@ i"lice_extended.h"
 i"../swell/swell.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_arc.cpp
-c0000000053286A91000000000000485A
-t1395157649
+c0000000053916668000000000000485A
+t1402037864
 s18522
 i"lice.h"
 i"lice_combine.h"
 i<math.h>
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_bmp.cpp
-c0000000053286A910000000000000AF1
-t1395157649
+c00000000539166680000000000000AF1
+t1402037864
 s2801
 i"lice.h"
 i"../swell/swell.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_colorspace.cpp
-c0000000053286A910000000000000B98
-t1395157649
+c00000000539166680000000000000B98
+t1402037864
 s2968
 i"lice.h"
 i<math.h>
 i"lice_combine.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_image.cpp
-c0000000053286A910000000000000D4F
-t1395157649
+c00000000539166680000000000000D4F
+t1402037864
 s3407
 i"lice.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_line.cpp
-c0000000053286A91000000000000B5D4
-t1395157649
+c0000000053916668000000000000B5D4
+t1402037864
 s46548
 i"lice.h"
 i"lice_combine.h"
@@ -423,16 +423,16 @@ i<stdio.h>
 i"lice_bezier.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_palette.cpp
-c0000000053286A910000000000001D84
-t1395157649
+c00000000539166680000000000001D84
+t1402037864
 s7556
 i"lice.h"
 i"../ptrlist.h"
 i"../wdltypes.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_png.cpp
-c0000000053286A91000000000000238B
-t1395157649
+c0000000053916668000000000000238B
+t1402037864
 s9099
 i"lice.h"
 i<stdio.h>
@@ -440,15 +440,15 @@ i"../libpng/png.h"
 i<Carbon/Carbon.h>
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_texgen.cpp
-c0000000053286A91000000000000239B
-t1395157649
+c0000000053916668000000000000239B
+t1402037864
 s9115
 i"lice.h"
 i<math.h>
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/../lice/lice_textnew.cpp
-c0000000053286A910000000000006987
-t1395157649
+c00000000539166680000000000006987
+t1402037864
 s27015
 i"lice_text.h"
 i<math.h>
@@ -457,20 +457,20 @@ i"lice_combine.h"
 i"lice_extended.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/adler32.c
-c0000000053286A910000000000001368
-t1395157649
+c00000000539166680000000000001368
+t1402037864
 s4968
 i"zutil.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/compress.c
-c0000000053286A9100000000000009D8
-t1395157649
+c000000005391666800000000000009D8
+t1402037864
 s2520
 i"zlib.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/crc32.c
-c0000000053286A91000000000000364A
-t1395157649
+c0000000053916668000000000000364A
+t1402037864
 s13898
 i<stdio.h>
 i"zutil.h"
@@ -478,39 +478,39 @@ i<limits.h>
 i"crc32.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/deflate.c
-c0000000053286A9100000000000116E0
-t1395157649
+c000000005391666800000000000116E0
+t1402037864
 s71392
 i"deflate.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/gzclose.c
-c0000000053286A9100000000000002A6
-t1395157649
+c000000005391666800000000000002A6
+t1402037864
 s678
 i"gzguts.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/gzlib.c
-c0000000053286A9100000000000039F1
-t1395157649
+c000000005391666800000000000039F1
+t1402037864
 s14833
 i"gzguts.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/gzread.c
-c0000000053286A9100000000000047B1
-t1395157649
+c000000005391666800000000000047B1
+t1402037864
 s18353
 i"gzguts.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/gzwrite.c
-c0000000053286A910000000000003F8A
-t1395157649
+c00000000539166680000000000003F8A
+t1402037864
 s16266
 i"gzguts.h"
 i<stdarg.h>
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/infback.c
-c0000000053286A9100000000000058AD
-t1395157649
+c000000005391666800000000000058AD
+t1402037864
 s22701
 i"zutil.h"
 i"inftrees.h"
@@ -519,8 +519,8 @@ i"inffast.h"
 i"inffixed.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/inffast.c
-c0000000053286A91000000000000347F
-t1395157649
+c0000000053916668000000000000347F
+t1402037864
 s13439
 i"zutil.h"
 i"inftrees.h"
@@ -528,8 +528,8 @@ i"inflate.h"
 i"inffast.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/inflate.c
-c0000000053286A91000000000000CF83
-t1395157649
+c0000000053916668000000000000CF83
+t1402037864
 s53123
 i"zutil.h"
 i"inftrees.h"
@@ -539,15 +539,15 @@ i"inffixed.h"
 i<stdio.h>
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/inftrees.c
-c0000000053286A9100000000000032E9
-t1395157649
+c000000005391666800000000000032E9
+t1402037864
 s13033
 i"zutil.h"
 i"inftrees.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/trees.c
-c0000000053286A91000000000000AC81
-t1395157649
+c0000000053916668000000000000AC81
+t1402037864
 s44161
 i"deflate.h"
 i<ctype.h>
@@ -555,405 +555,405 @@ i"trees.h"
 i<stdio.h>
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/uncompr.c
-c0000000053286A9100000000000007CA
-t1395157649
+c000000005391666800000000000007CA
+t1402037864
 s1994
 i"zlib.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/zutil.c
-c0000000053286A910000000000001B42
-t1395157649
+c00000000539166680000000000001B42
+t1402037864
 s6978
 i"zutil.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/Debug/lice.a
-t1401815794
+t1402037864
 s3795328
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/adler32.o
-t1401815791
+t1402037864
 s5644
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/compress.o
-t1401815791
+t1402037864
 s4032
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/crc32.o
-t1401815792
+t1402037864
 s18516
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/deflate.o
-t1401815792
+t1402037864
 s47028
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/gzclose.o
-t1401815792
+t1402037864
 s3176
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/gzlib.o
-t1401815792
+t1402037864
 s15304
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/gzread.o
-t1401815792
+t1402037864
 s17108
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/gzwrite.o
-t1401815792
+t1402037864
 s15160
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/infback.o
-t1401815792
+t1402037864
 s19832
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/inffast.o
-t1401815792
+t1402037864
 s9464
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/inflate.o
-t1401815792
+t1402037864
 s39164
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/inftrees.o
-t1401815792
+t1402037864
 s7080
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/lice.LinkFileList
-c00000000538E02EB00000000000011BB
-t1401815787
+c000000005391666800000000000011BB
+t1402037864
 s4539
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/lice.a
-t1401815793
+t1402037864
 s1751392
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/lice.o
-t1401815793
+t1402037864
 s266612
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/lice_arc.o
-t1401815792
+t1402037864
 s140224
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/lice_bmp.o
-t1401815792
+t1402037864
 s10400
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/lice_colorspace.o
-t1401815792
+t1402037864
 s12068
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/lice_image.o
-t1401815792
+t1402037864
 s9184
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/lice_line.o
-t1401815792
+t1402037864
 s203964
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/lice_palette.o
-t1401815792
+t1402037864
 s15220
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/lice_png.o
-t1401815793
+t1402037864
 s17696
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/lice_texgen.o
-t1401815793
+t1402037864
 s17628
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/lice_textnew.o
-t1401815793
+t1402037864
 s92952
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/png.o
-t1401815791
+t1402037864
 s62292
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/pngerror.o
-t1401815790
+t1402037864
 s22584
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/pngget.o
-t1401815791
+t1402037864
 s46076
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/pngmem.o
-t1401815791
+t1402037864
 s16720
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/pngpread.o
-t1401815791
+t1402037864
 s51016
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/pngread.o
-t1401815791
+t1402037864
 s35328
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/pngrio.o
-t1401815791
+t1402037864
 s11812
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/pngrtran.o
-t1401815791
+t1402037864
 s106504
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/pngrutil.o
-t1401815791
+t1402037864
 s95896
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/pngset.o
-t1401815791
+t1402037864
 s47452
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/pngtrans.o
-t1401815791
+t1402037864
 s23136
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/pngwio.o
-t1401815791
+t1402037864
 s13280
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/pngwrite.o
-t1401815791
+t1402037864
 s44460
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/pngwtran.o
-t1401815791
+t1402037864
 s22296
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/pngwutil.o
-t1401815792
+t1402037864
 s77216
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/trees.o
-t1401815792
+t1402037864
 s36328
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/uncompr.o
-t1401815792
+t1402037864
 s3376
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/zutil.o
-t1401815792
+t1402037864
 s3148
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/adler32.o
-t1401815789
+t1402037864
 s7360
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/compress.o
-t1401815789
+t1402037864
 s4924
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/crc32.o
-t1401815789
+t1402037864
 s19708
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/deflate.o
-t1401815789
+t1402037864
 s58176
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/gzclose.o
-t1401815789
+t1402037864
 s3672
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/gzlib.o
-t1401815789
+t1402037864
 s19436
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/gzread.o
-t1401815789
+t1402037864
 s21196
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/gzwrite.o
-t1401815789
+t1402037864
 s18996
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/infback.o
-t1401815789
+t1402037864
 s24324
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/inffast.o
-t1401815789
+t1402037864
 s11544
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/inflate.o
-t1401815789
+t1402037864
 s48880
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/inftrees.o
-t1401815789
+t1402037864
 s8252
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/lice.LinkFileList
-c00000000538E02EB000000000000120B
-t1401815787
+c0000000053916668000000000000120B
+t1402037864
 s4619
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/lice.a
-t1401815791
+t1402037864
 s2043888
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/lice.o
-t1401815791
+t1402037864
 s317076
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/lice_arc.o
-t1401815790
+t1402037864
 s130232
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/lice_bmp.o
-t1401815790
+t1402037864
 s12064
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/lice_colorspace.o
-t1401815790
+t1402037864
 s13588
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/lice_image.o
-t1401815790
+t1402037864
 s10364
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/lice_line.o
-t1401815790
+t1402037864
 s239664
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/lice_palette.o
-t1401815790
+t1402037864
 s17168
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/lice_png.o
-t1401815791
+t1402037864
 s20276
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/lice_texgen.o
-t1401815790
+t1402037864
 s19588
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/lice_textnew.o
-t1401815790
+t1402037864
 s111216
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/png.o
-t1401815788
+t1402037864
 s74368
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/pngerror.o
-t1401815788
+t1402037864
 s26784
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/pngget.o
-t1401815788
+t1402037864
 s56408
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/pngmem.o
-t1401815788
+t1402037864
 s19292
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/pngpread.o
-t1401815788
+t1402037864
 s61048
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/pngread.o
-t1401815788
+t1402037864
 s40452
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/pngrio.o
-t1401815788
+t1402037864
 s12704
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/pngrtran.o
-t1401815789
+t1402037864
 s132884
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/pngrutil.o
-t1401815789
+t1402037864
 s114692
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/pngset.o
-t1401815789
+t1402037864
 s57376
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/pngtrans.o
-t1401815789
+t1402037864
 s27832
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/pngwio.o
-t1401815789
+t1402037864
 s14480
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/pngwrite.o
-t1401815789
+t1402037864
 s53692
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/pngwtran.o
-t1401815789
+t1402037864
 s26160
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/pngwutil.o
-t1401815789
+t1402037864
 s92472
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/trees.o
-t1401815789
+t1402037864
 s42328
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/uncompr.o
-t1401815789
+t1402037864
 s4012
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/x86_64/zutil.o
-t1401815789
+t1402037864
 s4172
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/lice.h
-c0000000053286A9100000000000059EF
-t1395157649
+c000000005391666800000000000059EF
+t1402037864
 s23023
 i<windows.h>
 i"../swell/swell-types.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/lice_bezier.h
-c0000000053286A910000000000001E9B
-t1395157649
+c00000000539166680000000000001E9B
+t1402037864
 s7835
 i"lice.h"
 i<math.h>
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/lice_combine.h
-c0000000053286A91000000000000696B
-t1395157649
+c0000000053916668000000000000696B
+t1402037864
 s26987
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/lice_extended.h
-c0000000053286A9100000000000013D6
-t1395157649
+c000000005391666800000000000013D6
+t1402037864
 s5078
 i"lice.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/lice/lice_text.h
-c0000000053286A910000000000000F98
-t1395157649
+c00000000539166680000000000000F98
+t1402037864
 s3992
 i"lice.h"
 i"../heapbuf.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/ptrlist.h
-c0000000053286A91000000000000195B
-t1395157649
+c0000000053916668000000000000195B
+t1402037864
 s6491
 i"heapbuf.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/swell/swell-functions.h
-c0000000053286A91000000000000B320
-t1395157649
+c0000000053916668000000000000B320
+t1402037864
 s45856
 
 N/Users/mlu/MLVST/wdl-ol/WDL/swell/swell-types.h
-c0000000053286A910000000000008DDE
-t1395157649
+c00000000539166680000000000008DDE
+t1402037864
 s36318
 i<stdlib.h>
 i<stdio.h>
@@ -966,34 +966,34 @@ i<ctype.h>
 i<stdint.h>
 
 N/Users/mlu/MLVST/wdl-ol/WDL/swell/swell.h
-c0000000053286A91000000000000169E
-t1395157649
+c0000000053916668000000000000169E
+t1402037864
 s5790
 i<sys/param.h>
 i"swell-types.h"
 i"swell-functions.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/wdltypes.h
-c0000000053286A9100000000000008EB
-t1395157649
+c000000005391666800000000000008EB
+t1402037864
 s2283
 i<windows.h>
 i<stdint.h>
 
 N/Users/mlu/MLVST/wdl-ol/WDL/zlib/crc32.h
-c0000000053286A910000000000007766
-t1395157649
+c00000000539166680000000000007766
+t1402037864
 s30566
 
 N/Users/mlu/MLVST/wdl-ol/WDL/zlib/deflate.h
-c0000000053286A9100000000000031F3
-t1395157649
+c000000005391666800000000000031F3
+t1402037864
 s12787
 i"zutil.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/zlib/gzguts.h
-c0000000053286A910000000000001776
-t1395157649
+c00000000539166680000000000001776
+t1402037864
 s6006
 i<stdio.h>
 i"zlib.h"
@@ -1007,33 +1007,33 @@ i<windows.h>
 i<errno.h>
 
 N/Users/mlu/MLVST/wdl-ol/WDL/zlib/inffast.h
-c0000000053286A9100000000000001AB
-t1395157649
+c000000005391666800000000000001AB
+t1402037864
 s427
 
 N/Users/mlu/MLVST/wdl-ol/WDL/zlib/inffixed.h
-c0000000053286A9100000000000018BC
-t1395157649
+c000000005391666800000000000018BC
+t1402037864
 s6332
 
 N/Users/mlu/MLVST/wdl-ol/WDL/zlib/inflate.h
-c0000000053286A9100000000000018FF
-t1395157649
+c000000005391666800000000000018FF
+t1402037864
 s6399
 
 N/Users/mlu/MLVST/wdl-ol/WDL/zlib/inftrees.h
-c0000000053286A910000000000000B70
-t1395157649
+c00000000539166680000000000000B70
+t1402037864
 s2928
 
 N/Users/mlu/MLVST/wdl-ol/WDL/zlib/trees.h
-c0000000053286A910000000000002118
-t1395157649
+c00000000539166680000000000002118
+t1402037864
 s8472
 
 N/Users/mlu/MLVST/wdl-ol/WDL/zlib/zconf.h
-c0000000053286A910000000000003833
-t1395157649
+c00000000539166680000000000003833
+t1402037864
 s14387
 i<windows.h>
 i<sys/types.h>
@@ -1041,14 +1041,14 @@ i<unistd.h>
 i<unixio.h>
 
 N/Users/mlu/MLVST/wdl-ol/WDL/zlib/zlib.h
-c0000000053286A91000000000001503E
-t1395157649
+c0000000053916668000000000001503E
+t1402037864
 s86078
 i"zconf.h"
 
 N/Users/mlu/MLVST/wdl-ol/WDL/zlib/zutil.h
-c0000000053286A9100000000000019ED
-t1395157649
+c000000005391666800000000000019ED
+t1402037864
 s6637
 i"zlib.h"
 i<stddef.h>
@@ -1182,7 +1182,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies32acc697603eb941^740ad697603eb941^---0#1#0#--18"Check dependencies36"FF4AAF9A-0E4C-48CB-90A0-6E06C06938CC-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesdf1b7b37f454b941^7a1ac437f454b941^---0#1#0#--18"Check dependencies36"F85F44D3-4DF0-4734-A418-744E152BC8BA-
 
 CCompileC build-mac/lice.build/Debug/lice_32&64_intel.build/Objects-normal/i386/adler32.o /Users/mlu/MLVST/wdl-ol/WDL/lice/../zlib/adler32.c normal i386 c com.apple.compilers.llvmgcc42
 s423508591.839116

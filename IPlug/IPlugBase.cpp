@@ -84,6 +84,7 @@ IPlugBase::IPlugBase(int nParams,
   , mAPI(plugAPI)
   , mIsBypassed(false)
   , mDelay(0)
+  , numPresets(nPresets)
 {
   Trace(TRACELOC, "%s:%s", effectName, CurrentTime());
 

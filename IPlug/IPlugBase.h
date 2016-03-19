@@ -51,7 +51,7 @@ public:
 
   // Implementations should set a mutex lock like in the no-op!
   virtual void Reset() { TRACE; IMutexLock lock(this); }
-  virtual void OnParamChange(int paramIdx) { IMutexLock lock(this); }
+  virtual void OnParamChange(int paramIdx, int offset=0) { IMutexLock lock(this); }
 
   // Default passthrough.  Inputs and outputs are [nChannel][nSample].
   // Mutex is already locked.

@@ -966,7 +966,7 @@ void IGraphicsWin::CreateTextEntry(IControl* pControl, IText* pText, IRECT* pTex
     default:                  editStyle = ES_CENTER; break;
   }
 
-  editStyle |= ES_MULTILINE;
+  // editStyle |= ES_MULTILINE;
 
   mParamEditWnd = CreateWindow("EDIT", pString, WS_CHILD | WS_VISIBLE | editStyle ,
                                pTextRect->L, pTextRect->T, pTextRect->W()+1, pTextRect->H()+1,

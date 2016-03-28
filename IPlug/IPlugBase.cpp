@@ -905,8 +905,10 @@ bool IPlugBase::SerializeParams(ByteChunk* pChunk)
   for (i = 0; i < n && savedOK; ++i)
   {
     IParam* pParam = mParams.Get(i);
-    Trace(TRACELOC, "%d %s %f", i, pParam->GetNameForHost(), pParam->Value());
-    double v = pParam->Value();
+//    Trace(TRACELOC, "%d %s %f", i, pParam->GetNameForHost(), pParam->Value() );
+    Trace(TRACELOC, "%d %s %f", i, pParam->GetNameForHost(), pParam->GetNormalized() );
+//    double v = pParam->Value();
+    double v = pParam->GetNormalized();
     savedOK &= (pChunk->Put(&v) > 0);
   }
   return savedOK;
@@ -922,9 +924,11 @@ int IPlugBase::UnserializeParams(ByteChunk* pChunk, int startPos)
   {
     IParam* pParam = mParams.Get(i);
     double v = 0.0;
-    Trace(TRACELOC, "%d %s %f", i, pParam->GetNameForHost(), pParam->Value());
+//    Trace(TRACELOC, "%d %s %f", i, pParam->GetNameForHost(), pParam->Value());
+    Trace(TRACELOC, "%d %s %f", i, pParam->GetNameForHost(), pParam->GetNormalized());
     pos = pChunk->Get(&v, pos);
-    pParam->Set(v);
+//    pParam->Set(v);
+	pParam->SetNormalized(v);
   }
   OnParamReset();
   return pos;
